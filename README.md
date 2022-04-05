@@ -1,28 +1,26 @@
-### Integrantes do grupo
-Trabalho solicitado por **Ricardo Rubens**, professor de Programação Orientada a Objetos do **Instituto Federal de Alagoas (IFAL)** e realizado por: 
+## proojeto - jogo de cartas
+trabalho solicitado por **ricardo rubens**, professor de programação orientada a objetos do **instituto federal de alagoas(ifal)** e realizado por: 
 
-- Alexia Rodrigues dos Santos;
-- Bruno Lucas dos Santos;
-- Isaque de Souza Braga;
-- Ytalo dos Santos Amorim.
+- alexia
+- bruno
+- isaque (eu)
+- ytalo
 
-Turma: **922A**.
+## funcionalidades
+cada integrante teve seu papel específico:
 
-## Mudanças feitas desde a Parte 1 do PROOJETO
-Muitas coisas mudaram no código desde a sua primeira parte e cada integrante teve seu papel específico:
+alexia:
 
-Alexia:
+- possibilitou que no jogo pudesse ser cadastrado até 4 jogadores
 
-- Possibilitou que o jogo pudesse ser cadastrado até 4 jogadores.
+bruno:
 
-Bruno:
+- criou os temas do baralho
 
-- Criou os temas do baralho.
+isaque:
 
-Isaque:
+- aumentou a quantidade de rodadas até 5, tendo 3 como padrão
 
-- Aumentou a quantidade de rodadas até 5, tendo 3 como padrão.
+ytalo:
 
-Ytalo:
-
-- Integrou o código criado pelos outros membros no programa.
+- integrou o código criado pelos outros membros no programa
